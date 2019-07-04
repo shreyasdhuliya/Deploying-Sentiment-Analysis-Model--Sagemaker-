@@ -10,6 +10,6 @@
   - [IMDB database](http://ai.stanford.edu/~amaas/data/sentiment/)
   
 ### Output
-<img src="example1.png" width="1000" title="option1">
+<img src="images/example1.png" width="1000" title="option1">
 
-<img src="example2.png" width="1000" title="option1">
+<img src="images/example2.png" width="1000" title="option1">
